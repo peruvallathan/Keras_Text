@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+scikit_learn
+tensorflow
+tensorflow_hub
+tensorflow_text
